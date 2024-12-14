@@ -90,4 +90,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-**Developed By**: [Your Name](https://github.com/Lawani-EJ)
+**Developed By**: [Lawani-EJ](https://github.com/Lawani-EJ)
